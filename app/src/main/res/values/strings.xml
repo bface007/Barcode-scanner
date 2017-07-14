@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Scanner Test by Dan Ngossinga</string>
+  <string name="hint">Clique sur le bouton ci-dessous pour lancer un scan</string>
+  <string name="copyright">Dan Teddy Ngossinga</string>
+</resources>
